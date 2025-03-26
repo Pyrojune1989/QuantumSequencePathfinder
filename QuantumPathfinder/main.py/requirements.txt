@@ -1,0 +1,8 @@
+qiskit
+qiskit-aer
+pennylane
+pennylane-cirq
+cirq
+numpy
+matplotlib
+scikit-learn
